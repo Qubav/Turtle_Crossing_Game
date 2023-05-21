@@ -6,6 +6,7 @@ from scoreboard import Scoreboard
 
 # setting up screen window
 screen = Screen()
+screen.title("Turtle Crossing Game")
 screen.setup(width=600, height=600)
 screen.tracer(0)
 
